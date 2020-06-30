@@ -9,7 +9,7 @@ public class Test2 {
 			System.out.println("print am true");
 		}
 		else {
-			System.out.println("print am false");
+			System.out.println("print am FALSE and false");
 		}
 	}
 
